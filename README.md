@@ -2,6 +2,10 @@
 
 Total problems - 2.
 
+## Live Site Link
+
+[live site](https://mediusware-coding-test.netlify.app/)
+
 ## Run Locally
 
 Clone the project
